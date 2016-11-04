@@ -1,6 +1,6 @@
 # Measuring Network Latency Variable Window Size
 
-[Read me on GitHub!](https://github.com/SeanCooke/measuring-network-latency)
+[Read me on GitHub!](https://github.com/SeanCooke/measuring-network-latency-variable-window-size)
 
 ## Commands
 BUILD COMMAND: `$ make all`
